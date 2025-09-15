@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">旅游补光相机</string>
+    
+    <!-- 主界面 -->
+    <string name="main_title">智能补光</string>
+    <string name="brightness_control">亮度控制</string>
+    <string name="light_type">补光类型</string>
+    <string name="warm_light">暖光</string>
+    <string name="cool_light">冷光</string>
+    <string name="natural_light">自然光</string>
+    <string name="soft_light">柔光</string>
+    <string name="turn_on_light">开启补光</string>
+    <string name="turn_off_light">关闭补光</string>
+    <string name="light_switch">补光开关</string>
+    <string name="light_on">已开启</string>
+    <string name="light_off">已关闭</string>
+    <string name="take_photo">拍照</string>
+    <string name="split_screen_mode">分屏模式</string>
+    <string name="single_screen_mode">单屏模式</string>
+    <string name="photo_recommendation">拍照推荐</string>
+    
+    <!-- 拍照推荐页面 -->
+    <string name="angle_recommendation">角度推荐</string>
+    <string name="pose_suggestion">姿势建议</string>
+    <string name="light_optimization">光源优化</string>
+    <string name="photo_mode_recommendation">拍照模式推荐</string>
+    <string name="best_angle">最佳角度</string>
+    <string name="recommended_distance">推荐距离</string>
+    <string name="pose_classic">经典姿势</string>
+    <string name="pose_creative">创意姿势</string>
+    <string name="pose_couple">情侣姿势</string>
+    <string name="pose_group">群体姿势</string>
+    
+    <!-- 设置页面 -->
+    <string name="settings">设置</string>
+    <string name="template_management">模板管理</string>
+    <string name="advanced_settings">高级设置</string>
+    <string name="color_temperature">色温</string>
+    <string name="contrast">对比度</string>
+    <string name="saturation">饱和度</string>
+    <string name="auto_start">自动启动</string>
+    <string name="keep_screen_on">保持屏幕常亮</string>
+    <string name="power_save_mode">省电模式</string>
+    <string name="haptic_feedback">触觉反馈</string>
+    <string name="usage_statistics">使用统计</string>
+    <string name="help_tutorial">使用教程</string>
+    <string name="about">关于</string>
+    
+    <!-- 权限相关 -->
+    <string name="camera_permission_required">需要相机权限才能使用拍照功能</string>
+    <string name="storage_permission_required">需要存储权限才能保存照片</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="permission_denied">权限被拒绝</string>
+    
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="reset">重置</string>
+    <string name="apply">应用</string>
+    <string name="low_priority">低优先级</string>
+    <string name="recommended_settings">推荐设置</string>
+    <string name="brightness">亮度</string>
+    <string name="apply_recommendation">应用推荐</string>
+    <string name="back">返回</string>
+    <string name="next">下一步</string>
+    <string name="previous">上一步</string>
+    <string name="loading">加载中...</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="current_environment">当前环境</string>
+    <string name="time">时间</string>
+    <string name="weather">天气</string>
+    <string name="location">位置</string>
+    <string name="high_priority">高优先级</string>
+    <string name="medium_priority">中优先级</string>
+    
+    <!-- 提示信息 -->
+    <string name="tip_brightness_adjustment">滑动调节补光亮度</string>
+    <string name="tip_template_selection">选择适合的补光模板</string>
+    <string name="tip_split_screen">分屏模式适合多人拍摄</string>
+    <string name="tip_angle_recommendation">根据场景获取最佳拍摄角度</string>
+    <string name="tip_pose_guidance">查看专业拍照姿势指导</string>
+</resources>

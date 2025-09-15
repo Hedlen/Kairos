@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- 包含用户设置和偏好 -->
+    <include domain="sharedpref" path="." />
+    
+    <!-- 包含数据库文件 -->
+    <include domain="database" path="." />
+    
+    <!-- 包含文件但排除缓存 -->
+    <include domain="file" path="." />
+    <exclude domain="file" path="cache/" />
+    
+    <!-- 排除临时文件 -->
+    <exclude domain="file" path="temp/" />
+    
+    <!-- 排除敏感数据 -->
+    <exclude domain="sharedpref" path="device_prefs.xml" />
+    <exclude domain="file" path="keys/" />
+</full-backup-content>
